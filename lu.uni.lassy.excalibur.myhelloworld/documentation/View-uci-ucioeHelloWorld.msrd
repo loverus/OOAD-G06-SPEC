@@ -1,0 +1,10 @@
+/*
+@author Masha
+@date Wed Oct 05 15:24:47 MSK 2016
+*/
+
+
+@@view uci-ucioeHelloWorld
+@instance Use-Case usecases.ucioeHelloWorld.ucioeHelloWorld 
+@description ""
+@caption ""

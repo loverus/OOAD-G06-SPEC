@@ -1,0 +1,12 @@
+/*
+@author Masha
+@date Wed Oct 05 16:24:09 MSK 2016
+*/
+
+
+@@Primary Type Datatype lu.uni.lassy.excalibur.myhelloworld.concepts.primarytypes.datatypes.dtAMessage
+@description "Is representation the hello world message type."
+@attribute
+lu.uni.lassy.excalibur.myhelloworld.concepts.primarytypes.datatypes.dtAMessage.value
+""
+@endAttributes

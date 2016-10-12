@@ -1,0 +1,10 @@
+/*
+@author Masha
+@date Wed Oct 05 15:13:00 MSK 2016
+*/
+
+
+@@view uc-oeHelloWorld
+@model Use-Case lu.uni.lassy.excalibur.myhelloworld.usecases.oeHelloWorld 
+@description "shows the oeHelloWorld subfunction use-case and its primary actor actYou"
+@caption ""

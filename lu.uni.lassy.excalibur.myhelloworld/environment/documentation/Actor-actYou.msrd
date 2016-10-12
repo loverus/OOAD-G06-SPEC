@@ -1,0 +1,12 @@
+/*
+@author Masha
+@date Wed Oct 05 15:26:49 MSK 2016
+*/
+
+
+@@Actor lu.uni.lassy.excalibur.myhelloworld.environment.actYou
+@description "Is representation any person that would like to receive an hello world message from the system"
+//input events
+
+//output events
+

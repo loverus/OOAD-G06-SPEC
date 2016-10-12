@@ -1,0 +1,28 @@
+/*
+@author Masha
+@date Wed Oct 05 16:35:04 MSK 2016
+*/
+
+
+@@Operation
+lu.uni.lassy.excalibur.myhelloworld.environment.actYou.outactYou.oeHelloWorld
+@description "
+ "
+//preProtocol descriptions
+@preP
+" "
+@endPreP
+//preFunctional descriptions
+@preF
+" "
+@endPreF
+//postFunctional descriptions
+@postF 
+" "
+@endPostF
+//postProtocol descriptions
+@postP 
+" "
+@endPostP
+//example
+@example" "
